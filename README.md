@@ -139,17 +139,6 @@
 - Include animations for algorithms like k-means and decision tree splits.
 
 ---
-
-## 📸 Sample Screenshots
-
-### Algorithm Selection
-*(Add screenshot link after uploading to your repo)*  
-`![Algorithm Selection](assets/algorithm_selection.png)`
-
-### Visualization Canvas
-*(Add screenshot link after uploading to your repo)*  
-`![Visualization Canvas](assets/visualization_canvas.png)`
-
 ---
 
 ## 🤝 Contributing
