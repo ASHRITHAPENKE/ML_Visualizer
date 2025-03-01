@@ -45,17 +45,6 @@
 - K-Means Clustering
 - Hierarchical Clustering
 - DBSCAN
-
-### ✅ Reinforcement Learning
-- Q-Learning
-
-### ✅ Neural Networks
-- Feedforward Neural Network (Basic MLP)
-
-### ✅ Ensemble Methods
-- Bagging
-- Boosting (AdaBoost)
-
 ---
 
 ## 🖥️ System Requirements
