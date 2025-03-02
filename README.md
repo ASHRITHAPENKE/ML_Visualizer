@@ -1,4 +1,15 @@
-# 🧰 ML Algorithm Visualizer
+
+
+✅ **Dataset Options**  
+- Upload custom datasets (CSV/Excel).
+- Use built-in sample datasets.
+
+✅ **User-friendly Interface**  
+- Dashboard with algorithm tiles.
+- Parameter sliders and dropdowns.
+- Visualization canvas for dynamic rendering.
+
+---# 🧰 ML Algorithm Visualizer
 
 ## 📌 Project Overview
 **ML Algorithm Visualizer** is an interactive web application designed to help users understand and visualize how various machine learning algorithms work. It supports multiple algorithms across supervised, unsupervised, and reinforcement learning, with real-time visualizations, performance metrics, and step-by-step execution flows.
@@ -18,17 +29,6 @@
 
 ✅ **Graphs & Charts**  
 - Scatter plots, decision boundaries, error plots, learning curves, confusion matrices.
-
-✅ **Dataset Options**  
-- Upload custom datasets (CSV/Excel).
-- Use built-in sample datasets.
-
-✅ **User-friendly Interface**  
-- Dashboard with algorithm tiles.
-- Parameter sliders and dropdowns.
-- Visualization canvas for dynamic rendering.
-
----
 
 ## 📊 Supported Algorithms
 
@@ -146,10 +146,7 @@ If you want to add new algorithms, improve UI/UX, or enhance visualizations, fee
 
 ---
 
-## ⚖️ License
 
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute this project as per the license terms.
 
 ---
 
