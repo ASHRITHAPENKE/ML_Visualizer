@@ -107,10 +107,14 @@
 ## 📦 Example Output
 
 **Selected Algorithm:**  
-*Support Vector Machine (SVM)*
+*Support Vector Machine (SVM)
+![image](https://github.com/user-attachments/assets/54291f98-5de5-47ac-8300-3e9f2e37b865)
+
 
 **Dataset:**  
 *Iris Dataset*
+![image](https://github.com/user-attachments/assets/5134be0a-fecd-48c0-9044-791160328410)
+
 
 **Visualization:**  
 - Decision Boundaries plotted.
